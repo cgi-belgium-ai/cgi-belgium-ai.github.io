@@ -1,6 +1,7 @@
 ---
-<!--- layout: default -->
 ---
+
+<!--- layout: default -->
 
 # Knowledge Networking Session 2: Computer Vision, From Zero to Hero
 
