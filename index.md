@@ -4,6 +4,8 @@
 
 # Knowledge Networking Session 2: Computer Vision, From Zero to Hero
 
+[GitHub repository with Notebooks]([./another-page.html](https://github.com/cgi-belgium-ai/kns-tensorflow)).
+
 
 
 <!---
